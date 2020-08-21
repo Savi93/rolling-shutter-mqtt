@@ -23,9 +23,9 @@ char AIO_KEY[] = {alpha[0x1B], alpha[0x19], alpha[0x31], alpha[0x1B], alpha[0x1B
 
 /***************************** Global State **********************************/
 
-char ssid[] = "Savii Wireless Connection 2.4GHz"; //Name of the Wi-Fi network
+char ssid[] = "Wireless Connection"; //Name of the Wi-Fi network
 //Password of the Wi-Fi network
-char pass[] = {alpha[0x9], alpha[0x23], alpha[0x18], alpha[0x16], alpha[0x22], alpha[0x1E], alpha[0x2C], alpha[0x32], alpha[0x2C], alpha[0x2C], alpha[0x2C], alpha[0x34], alpha[0x34], alpha[0x2E]}; //Password of the Wi-Fi network
+char pass[] = {alpha[0x1B], alpha[0x9], alpha[0x22], alpha[0x1E], alpha[0x1B], alpha[0x31], alpha[0x1B], alpha[0x1A], alpha[0x2C], alpha[0x2C], alpha[0x34], alpha[0x34], alpha[0x1B],}; //Password of the Wi-Fi network
 int status = WL_IDLE_STATUS;
 boolean admin = false; //Variable used in order to check if the developer status is active
 long starttime; //Time value used to manage the main loop operations
