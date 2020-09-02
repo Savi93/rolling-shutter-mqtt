@@ -1,4 +1,4 @@
-# Prototyiping smart shades
+# Prototyping smart shades
 
 Realization of a home automation prototype, able to intelligently manage a rolling shutter system with anti-intrusion block.
 The main reason behind the project is to provide to the owner a complete apparatus manageable remotely and, in addition to that, able to recognize some pre-defined external conditions for which has to act consciously in a predetermined way. 
