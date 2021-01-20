@@ -5,3 +5,6 @@ The main reason behind the project is to provide to the owner a complete apparat
 The purpose of the prototype, is to provide a small model of a system capable to significantly simplify the Human-Machine interaction, and be for instance very helpful to elder or people with some kind of mobility problem that have difficulties in reaching the control mechanisms of mechanic or classic motorized shades.
 
 ### Technologies used: C++, Arduino, MQTT protocol, Adafruit.io
+
+
+![Alt text](Project.png)
