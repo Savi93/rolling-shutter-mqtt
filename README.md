@@ -8,3 +8,4 @@ The purpose of the prototype, is to provide a small model of a system capable to
 
 
 ![Alt text](Project.png)
+![Alt text](Schema.png)
